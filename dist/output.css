@@ -549,9 +549,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-right: auto;
 }
 
-.mx-3 {
-  margin-left: 0.75rem;
-  margin-right: 0.75rem;
+.mb-1 {
+  margin-bottom: 0.25rem;
 }
 
 .mt-1 {
@@ -600,10 +599,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .mb-2 {
   margin-bottom: 0.5rem;
-}
-
-.mb-1 {
-  margin-bottom: 0.25rem;
 }
 
 .block {
@@ -763,6 +758,11 @@ Ensure the default browser behavior of the `hidden` attribute.
   padding-bottom: 0.5rem;
 }
 
+.px-1 {
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+}
+
 .py-3 {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
@@ -776,16 +776,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 .py-10 {
   padding-top: 2.5rem;
   padding-bottom: 2.5rem;
-}
-
-.px-5 {
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-}
-
-.px-1 {
-  padding-left: 0.25rem;
-  padding-right: 0.25rem;
 }
 
 .pt-20 {
@@ -954,11 +944,6 @@ body {
   border-color: rgb(228 64 95 / var(--tw-border-opacity));
 }
 
-.hover\:border-facebook:hover {
-  --tw-border-opacity: 1;
-  border-color: rgb(24 119 242 / var(--tw-border-opacity));
-}
-
 .hover\:border-tiktok:hover {
   --tw-border-opacity: 1;
   border-color: rgb(0 0 0 / var(--tw-border-opacity));
@@ -972,11 +957,6 @@ body {
 .hover\:bg-instagram:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(228 64 95 / var(--tw-bg-opacity));
-}
-
-.hover\:bg-facebook:hover {
-  --tw-bg-opacity: 1;
-  background-color: rgb(24 119 242 / var(--tw-bg-opacity));
 }
 
 .hover\:bg-tiktok:hover {
