@@ -949,6 +949,11 @@ body {
   border-color: rgb(0 0 0 / var(--tw-border-opacity));
 }
 
+.hover\:border-roblox:hover {
+  --tw-border-opacity: 1;
+  border-color: rgb(189 194 195 / var(--tw-border-opacity));
+}
+
 .hover\:bg-youtube:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(255 0 0 / var(--tw-bg-opacity));
@@ -962,6 +967,11 @@ body {
 .hover\:bg-tiktok:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(0 0 0 / var(--tw-bg-opacity));
+}
+
+.hover\:bg-roblox:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(189 194 195 / var(--tw-bg-opacity));
 }
 
 .hover\:text-white:hover {

@@ -15,6 +15,7 @@ module.exports = {
         instagram: "#E4405F",
         facebook: "#1877F2",
         tiktok: "#000000",
+        roblox: "#BDC2C3",
         home: "#F68315",
         kontak: "#26A5E4",
         anggota: "#809CC9",
